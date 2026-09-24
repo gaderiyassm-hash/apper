@@ -1,0 +1,6 @@
+{
+  "name": "Apper Trading",
+  "description": "Professional real-time mobile trading platform featuring live charts, instant trade execution, wallet management, and comprehensive market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

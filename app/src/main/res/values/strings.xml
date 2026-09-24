@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apper Trading</string>
+    <string name="app_full_name">Apper Trading</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_markets">Markets</string>
+    <string name="tab_trade">Trade</string>
+    <string name="tab_history">History</string>
+    <string name="tab_wallet">Wallet</string>
+    <string name="risk_warning_title">Risk Disclosure</string>
+    <string name="risk_warning_content">Trading financial instruments carries substantial risk of loss and is not suitable for every investor. Please evaluate your risk tolerance carefully before executing trades.</string>
+</resources>
